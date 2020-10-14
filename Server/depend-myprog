@@ -1,0 +1,5 @@
+Media.o: Media.cpp Media.h
+main.o: main.cpp Media.h Photo.h Video.h Film.h Group.h DataBase.h \
+ tcpserver.h cppsocket.h
+tcpserver.o: tcpserver.cpp tcpserver.h cppsocket.h
+cppsocket.o: cppsocket.cpp cppsocket.h

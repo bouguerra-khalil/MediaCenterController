@@ -1,5 +1,5 @@
 <h1 style="text-align:center"> Media Center Controller </h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/remotecontroller.png">
 Media Center - Controller project is a tool devllopped in C++ & Java Swing to create a media center on the server side and a  remote controller  though a java  interface on the client side.
 
 ## Features: 

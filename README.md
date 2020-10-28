@@ -3,7 +3,8 @@
 Media Center - Controller project is a tool devllopped in C++ & Java Swing to create a media center on the server side and a  remote controller  though a java  interface on the client side.
 
 ## Features: 
-- **Add Media files objects to your media center collection**: 
+- **Add Media files objects to your media center collection**:
+
 supported Formats : 
     - Photos : JPEG,TIFF,GIF,BMP,PNG,SVG
     - Videos : WEBM,MKV,FLV,AVI,MOV,MP4,MPG,M4V
